@@ -11,7 +11,8 @@ Software Engineer @ Purchasing power
 <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java"/>  <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="external-sql-computer-programming-flaticons-lineal-color-flat-icons"/>
 
 ### IDE and Tools I Use
-<img width="100" height="100" src="https://img.icons8.com/stickers/100/selenium-test-automation.png" alt="selenium-test-automation"/>  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/blazemeter-icon.png" width="128" height="128">
+<img width="100" height="100" src="https://img.icons8.com/stickers/100/selenium-test-automation.png" alt="selenium-test-automation"/>  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/postman-icon.png" width="128" height="128">
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/blazemeter-icon.png" width="128" height="128">
 
 
 
